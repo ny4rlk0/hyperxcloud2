@@ -18,3 +18,5 @@ GraphicEQ: 25 1.8; 40 1.4; 63 1.4; 100 0.6; 160 0; 250 -3; 400 -4.6; 630 -4.6; 1
 7. Turn off this preset and turn it on again.
 
 That's all, your headset should sound way better than how it came from the box.
+
+Source: https://steamcommunity.com/discussions/forum/1/1729828401679409289/
