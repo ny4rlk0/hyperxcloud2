@@ -1,3 +1,5 @@
+<br> Use 0030 for better sound quality.
+
 [Fix] HyperX Cloud II annoying high treble and little low bass
 Today, I found how to fix my Cloud II horrible boosted treble and very little bass problem.
 
